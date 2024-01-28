@@ -7,7 +7,7 @@
 
 [![](.docs/demo.gif)](https://mateuszsokola.github.io/2048-in-react/)
 
-## [Play 2048 💥](https://mateuszsokola.github.io/2048-in-react/)
+## [Play 2048 💥](https://KaziJahurul.github.io/2048-in-react/)
 
 ## Features
 
